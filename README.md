@@ -20,3 +20,6 @@ Create a calculator app to perform all the standard calculator operations like a
  -Changing the orientation to landscape(layout qualifier) will display now functionality (Scientific calculator)
 
 <img width="334" alt="Screen Shot 2019-09-30 at 10 56 38 AM" src="https://user-images.githubusercontent.com/55797189/65891822-32879000-e373-11e9-9bb6-4cb6d4a92bc2.png">
+
+
+<img width="672" alt="Screen Shot 2019-09-30 at 10 58 23 AM" src="https://user-images.githubusercontent.com/55797189/65891609-d02e8f80-e372-11e9-98df-45283fe33dc5.png">
