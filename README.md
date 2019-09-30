@@ -18,3 +18,5 @@ coding
 Create a calculator app to perform all the standard calculator operations like addition, subtraction, multiplication, divide etc. 
  -No edittexts
  -Changing the orientation to landscape(layout qualifier) will display now functionality (Scientific calculator)
+
+<img width="334" alt="Screen Shot 2019-09-30 at 10 56 38 AM" src="https://user-images.githubusercontent.com/55797189/65891822-32879000-e373-11e9-9bb6-4cb6d4a92bc2.png">
